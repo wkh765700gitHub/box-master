@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\java\\android\\MyApplication\\QBox-master\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\android\\adt-bundle-windows-x86-20131030\\adt-bundle-windows-x86-20131030\\sdk\\.android\\build-cache\\8ee3d6bead2ab79ffd9ffe2821af75f384c4019d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\TravelLover\\TravelLover\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\QBox\\QBox\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\newmove\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\219729b653483b2c64864a89b5ab1a527d1572f0\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]
